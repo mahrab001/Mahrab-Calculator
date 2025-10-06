@@ -1,14 +1,14 @@
 const questionsData = [
-  "Do you like to stay up late at night?",
-  "Do you prefer working alone?",
-  "Do you overthink small things?",
-  "Are you calm under pressure?",
-  "Do you enjoy long conversations?",
-  "Do you often forget small tasks?",
-  "Do you love adventures or spontaneous plans?",
-  "Do you listen to music daily?",
-  "Do you get emotionally attached easily?",
-  "Do you like deep thoughts or random jokes?"
+    "Does your brain work on a single core?",
+    "Do you think by shutting down your brain?",
+    "Do you make easy things difficult?",
+    "Do you think abnormally?",
+    "Do you always do CHODNAMI?",
+    "Do you often forget small tasks?",
+    "Do you love CHODNAMI?",
+    "Do you listen to GALI daily?",
+    "Do you want to murder someone?",
+    "Do you like deep thoughts on easy things?"
 ];
 
 const questionsContainer = document.getElementById("questions");
